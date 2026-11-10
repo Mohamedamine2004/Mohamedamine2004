@@ -85,13 +85,13 @@
     <circle cx="32" cy="0" r="5" fill="#10b981" opacity="0.85" />
   </g>
 
-  <!-- Status Pill: Seeking Stage d'État (Top Right) -->
-  <g transform="translate(615, 18)">
-    <rect x="0" y="0" width="248" height="28" rx="14" fill="#06281e" stroke="#10b981" stroke-width="1" stroke-opacity="0.7" />
+  <!-- Status Pill: Seeking Graduation Internship (Top Right) -->
+  <g transform="translate(585, 18)">
+    <rect x="0" y="0" width="278" height="28" rx="14" fill="#06281e" stroke="#10b981" stroke-width="1" stroke-opacity="0.7" />
     <circle cx="16" cy="14" r="4" fill="#10b981">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
     </circle>
-    <text x="28" y="18" class="status-text">OPEN FOR STAGE D'ÉTAT</text>
+    <text x="28" y="18" class="status-text">OPEN TO GRADUATION INTERNSHIP</text>
   </g>
 
   <!-- Main Engineer Name -->
@@ -107,20 +107,20 @@
     <text x="12" y="18" class="badge-text" fill="#93c5fd">🎓 ESPRIT · AI Track</text>
   </g>
 
-  <!-- Badge 2: Mention Très Bien -->
+  <!-- Badge 2: Highest Honors -->
   <g transform="translate(214, 156)">
-    <rect x="0" y="0" width="190" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
-    <text x="12" y="18" class="badge-text" fill="#fbbf24">🏅 Mention Très Bien (GLSI)</text>
+    <rect x="0" y="0" width="205" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
+    <text x="12" y="18" class="badge-text" fill="#fbbf24">🏅 Highest Honors · B.Sc. GLSI</text>
   </g>
 
   <!-- Badge 3: Polyglot Stack -->
-  <g transform="translate(414, 156)">
+  <g transform="translate(429, 156)">
     <rect x="0" y="0" width="230" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
     <text x="12" y="18" class="badge-text" fill="#67e8f9">⚡ Spring Boot · NestJS · ML</text>
   </g>
 
   <!-- Badge 4: Location -->
-  <g transform="translate(654, 156)">
+  <g transform="translate(669, 156)">
     <rect x="0" y="0" width="130" height="28" rx="6" fill="#0f172a" stroke="#334155" stroke-width="1" />
     <text x="12" y="18" class="badge-text" fill="#94a3b8">📍 Tunis, Tunisia</text>
   </g>
