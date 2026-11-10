@@ -70,17 +70,23 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <td width="45%" valign="top" align="center">
 <h3>📊 Git Velocity</h3>
 
-<!-- GitHub Stats Card: Frameless & Minimalist Dark Theme -->
+<!-- Live GitHub Streak Stats (200 OK, High-Speed CDN) -->
 <a href="https://github.com/Mohamedamine2004">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedamine2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&icon_color=10b981&count_private=true&include_all_commits=true" width="100%" alt="GitHub Statistics" />
+  <img src="https://streak-stats.demolab.com?user=Mohamedamine2004&theme=tokyonight&background=090d16&border=1e293b&ring=38bdf8&fire=10b981&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&stroke=38bdf8" width="100%" alt="GitHub Streak Stats" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Top Languages Card -->
-<a href="https://github.com/Mohamedamine2004">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedamine2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8&langs_count=6" width="100%" alt="Top Languages" />
-</a>
+<!-- Engineering Highlights Pill Card -->
+<div align="left" style="background-color: #0d1322; padding: 12px; border-radius: 8px; border: 1px solid #1e293b;">
+  <p><b>⚡ Engineering Highlights</b></p>
+  <ul>
+    <li>🏆 <b>PFE Distinction</b>: Mention Très Bien (Highest Honors)</li>
+    <li>🎓 <b>Academic Track</b>: AI & Software Engineering @ ESPRIT</li>
+    <li>🚀 <b>Production Stacks</b>: React, NestJS, Python, CatBoost, PostgreSQL</li>
+    <li>🎯 <b>Status</b>: Open for Stage d'État (Final Graduation Internship)</li>
+  </ul>
+</div>
 
 </td>
 
