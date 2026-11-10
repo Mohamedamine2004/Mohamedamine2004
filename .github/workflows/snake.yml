@@ -1,0 +1,48 @@
+# ════════════════════════════════════════════════════════════
+#  GitHub Actions — Auto-Generate Snake Contribution Animation
+#  Place this file at: .github/workflows/snake.yml
+# ════════════════════════════════════════════════════════════
+
+name: 🐍 Generate Snake Animation
+
+on:
+  schedule:
+    # Regenerates every 12 hours automatically
+    - cron: "0 */12 * * *"
+
+  # Lets you trigger it manually from the Actions tab
+  workflow_dispatch:
+
+  # Also runs on every push to main (so it's always fresh)
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Generate Snake SVG
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Check out your repo
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Generate both light and dark snake SVGs
+      - name: 🐍 Generate Snake SVG (Light + Dark)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # 3. Push generated files to the 'output' branch
+      - name: 🚀 Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
