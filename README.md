@@ -73,27 +73,38 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 
 </td>
 
-<!-- Bento Card B: Developer Sanctuary (Anime Coder + Live Streak) -->
+<!-- Bento Card B: Developer Sanctuary (Anime Coder + Desk Cat Companion + Live Streak) -->
 <td width="45%" valign="top" align="center">
 <h3>⚡ Dev Sanctuary</h3>
 
-<!-- Cyberpunk Anime Coder Companion (Self-hosted in repository, instant load) -->
-<img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-coder.gif" width="280" alt="Anime Coder in Focus Mode" style="border-radius: 8px; margin-bottom: 6px;" />
+<!-- Dual Companion Showcase: Cyberpunk Anime Coder + Animated Desk Cat -->
+<!-- Why this exists: Displays both the focused anime engineer and the playful desk cat side-by-side at optimal pixel resolution. -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td width="50%" align="center" valign="bottom">
+    <a href="https://github.com/Mohamedamine2004">
+      <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-coder.gif" width="135" alt="Anime Coder in Focus Mode" />
+    </a>
+    <br/>
+    <sub><b>🎧 Cyberpunk Dev</b></sub>
+  </td>
+  <td width="50%" align="center" valign="bottom">
+    <a href="https://github.com/Mohamedamine2004">
+      <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/cat-coding.gif" width="135" alt="Coding Cat Desk Companion" />
+    </a>
+    <br/>
+    <sub><b>🐾 Desk Companion</b></sub>
+  </td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focus-Deep_Engineering_Flow-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
+<img src="https://img.shields.io/badge/Mode-Deep_Focus_Flow-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
+&nbsp;
+<img src="https://img.shields.io/badge/Fuel-Espresso_%E2%98%95-10b981?style=flat-square&labelColor=0f172a" alt="Espresso Fuel" />
 
 <br/><br/>
-
-<!-- Desk Companion Detail: Cute Animated Coding Cat -->
-<details>
-  <summary><b>🐱 Desk Companion: Animated Coding Cat</b></summary>
-  <br/>
-  <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/cat-coding.gif" width="250" alt="Coding Cat" style="border-radius: 8px;" />
-</details>
-
-<br/>
 
 <!-- Live GitHub Streak Stats (High reliability demolab endpoint) -->
 <a href="https://github.com/Mohamedamine2004">
