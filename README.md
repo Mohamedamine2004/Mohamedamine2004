@@ -9,11 +9,11 @@
 <div align="center">
 
 <!-- ────────────── 1. AMBIENT GLOW HERO BANNER ────────────── -->
-<!-- Why this exists: Creates a clean, premium visual first impression without noisy animations -->
+<!-- Why this exists: Premium visual first impression with electric cyan gradient -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090d16,40:0f172a,70:1e293b,100:0ea5e9&height=220&section=header&text=Mohamed%20Lamine%20Saidane&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Software%20Engineering%20Student%20%40%20ESPRIT&descSize=16&descAlignY=62&descColor=38bdf8" width="100%" alt="Header Banner" />
 
 <!-- ────────────── 2. DYNAMIC STATUS & ROLES ────────────── -->
-<!-- Why this exists: Highlights your key career highlights in a readable typing line -->
+<!-- Why this exists: Highlights key career distinctions with a smooth typing ticker -->
 <br/>
 
 [![Typing Line](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2600&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=45&lines=AI+%26+Software+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93;Full-Stack+%26+Distributed+Systems+Architect+%E2%9A%A1;B.Sc.+GLSI+Graduate+%E2%80%94+Mention+Tr%C3%A8s+Bien+%F0%9F%8F%85;Actively+Seeking+Stage+d'%C3%89tat+(Final+Graduation+Internship)+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -45,7 +45,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--  BENTO ROW 1: PROFILE CREDENTIALS (LEFT) & LIVE GIT VELOCITY (RIGHT)            -->
+<!--  BENTO ROW 1: PROFILE & ACADEMICS (LEFT) + ANIME CODER & STREAK (RIGHT)        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
@@ -64,29 +64,29 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 - 🎯 **Target**: Seeking a **Stage d'État** (Final Graduation Internship) starting early 2025/2026
 - 💬 **Languages**: French (*Bilingual*), English (*Professional*), Arabic (*Native*)
 
+<br/>
+
+> *"Simplicity is prerequisite for reliability."* — **Edsger W. Dijkstra**
+
 </td>
 
-<!-- Bento Card B: GitHub Velocity & Streak -->
+<!-- Bento Card B: Developer Sanctuary (Anime Coder + Live Streak) -->
 <td width="45%" valign="top" align="center">
-<h3>📊 Git Velocity</h3>
+<h3>⚡ Dev Sanctuary</h3>
 
-<!-- Live GitHub Streak Stats (200 OK, High-Speed CDN) -->
-<a href="https://github.com/Mohamedamine2004">
-  <img src="https://streak-stats.demolab.com?user=Mohamedamine2004&theme=tokyonight&background=090d16&border=1e293b&ring=38bdf8&fire=10b981&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&stroke=38bdf8" width="100%" alt="GitHub Streak Stats" />
-</a>
+<!-- Aesthetic Anime / Coder Companion -->
+<img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-coder.gif" width="280" alt="Anime Coder in Focus Mode" style="border-radius: 8px; margin-bottom: 8px;" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Mode-Deep_Focus_🎧-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
 
 <br/><br/>
 
-<!-- Engineering Highlights Pill Card -->
-<div align="left" style="background-color: #0d1322; padding: 12px; border-radius: 8px; border: 1px solid #1e293b;">
-  <p><b>⚡ Engineering Highlights</b></p>
-  <ul>
-    <li>🏆 <b>PFE Distinction</b>: Mention Très Bien (Highest Honors)</li>
-    <li>🎓 <b>Academic Track</b>: AI & Software Engineering @ ESPRIT</li>
-    <li>🚀 <b>Production Stacks</b>: React, NestJS, Python, CatBoost, PostgreSQL</li>
-    <li>🎯 <b>Status</b>: Open for Stage d'État (Final Graduation Internship)</li>
-  </ul>
-</div>
+<!-- Live GitHub Streak Stats -->
+<a href="https://github.com/Mohamedamine2004">
+  <img src="https://streak-stats.demolab.com?user=Mohamedamine2004&theme=tokyonight&background=090d16&border=1e293b&ring=38bdf8&fire=10b981&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&stroke=38bdf8" width="100%" alt="GitHub Streak Stats" />
+</a>
 
 </td>
 
