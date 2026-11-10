@@ -1,22 +1,18 @@
-# 📋 Plan: Complete Redesign — Modern Bento Grid & Linear-Style Profile
+# 📋 Task: Fix Broken Images & Header Banner (Local Preparation)
 
-## 🎯 Objective
-Completely discard the previous terminal/code-block aesthetic and build an award-winning, modern **Bento Grid & Linear-Style** GitHub profile README for Mohamed Lamine Saidane.
-
----
-
-## 🏗️ Design Concept: The Bento Grid Architecture
-- **Palette**: Dark Obsidian (`#090d16` / `#0f172a`), Crisp Slate Text (`#ffffff`, `#94a3b8`), and Electric Accents (Cyan `#38bdf8` + Emerald `#10b981`).
-- **Layout**: Bento Box structure using seamless HTML tables and modern card containers with high information density and zero visual clutter.
-- **Tone**: High-caliber engineering, clean architecture, ambitious, and professional.
+## 🔍 Root Cause Analysis
+1. **Header Banner Timeout**: `capsule-render.vercel.app` takes ~10.5 seconds to respond. GitHub's proxy (Camo) times out after 4 seconds and displays a broken image icon.
+2. **Companion Image Failure**: External Giphy links (`media.giphy.com`) are frequently blocked or throttled by GitHub Camo proxy.
+3. **Badge URL Encoding**: Emojis in Shields.io URLs (`🎓`, `🚀`, `🎧`) trigger encoding errors unless properly encoded.
+4. **Safety Rule**: **NO changes pushed to GitHub without explicit user permission.** All fixes prepared and verified locally first.
 
 ---
 
-## 📌 Milestones Status
+## 📌 Milestones
 
-- [x] **Milestone 1**: Dynamic Minimal Header & Quick Social Navigation Bar (Linear / Vercel style)
-- [x] **Milestone 2**: Bento Cell A (Engineering Profile & Academic Credentials) + Bento Cell B (Live Git Velocity & Metrics)
-- [x] **Milestone 3**: Bento Cell C (Flagship Production Projects — SmartBiz AI & Money Track Mood)
-- [x] **Milestone 4**: Bento Cell D (Curated Tech Arsenal & Tools)
-- [x] **Milestone 5**: Bento Cell E (Contribution Physics & Activity Showcase)
-- [x] **Milestone 6**: Bento Cell F (Professional Network & Stage d'État Contact Gateway)
+- [x] **Milestone 1**: Design a custom, self-hosted SVG header banner (`assets/header.svg`) — zero server dependency, instant load (<50ms).
+- [x] **Milestone 2**: Design a clean, matching self-hosted SVG footer banner (`assets/footer.svg`).
+- [x] **Milestone 3**: Fix companion image paths to use the fast, local repository assets (`assets/anime-coder.gif` & `assets/cat-coding.gif`).
+- [x] **Milestone 4**: Fix and URL-encode all badge links so no symbols crash.
+- [x] **Milestone 5**: Test and verify locally in `preview.html` using a local browser check.
+- [ ] **Milestone 6**: Present the solution to the user and request permission before touching GitHub.

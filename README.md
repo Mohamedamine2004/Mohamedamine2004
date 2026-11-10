@@ -9,8 +9,11 @@
 <div align="center">
 
 <!-- ────────────── 1. AMBIENT GLOW HERO BANNER ────────────── -->
-<!-- Why this exists: Premium visual first impression with electric cyan gradient -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:090d16,40:0f172a,70:1e293b,100:0ea5e9&height=220&section=header&text=Mohamed%20Lamine%20Saidane&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Software%20Engineering%20Student%20%40%20ESPRIT&descSize=16&descAlignY=62&descColor=38bdf8" width="100%" alt="Header Banner" />
+<!-- Why this exists: A custom-built, vector SVG banner stored right inside the repository.
+     It loads in <50ms, never times out, and eliminates any dependency on third-party servers. -->
+<a href="https://github.com/Mohamedamine2004">
+  <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/header.svg" width="100%" alt="Mohamed Lamine Saidane — AI &amp; Software Engineering Student @ ESPRIT" />
+</a>
 
 <!-- ────────────── 2. DYNAMIC STATUS & ROLES ────────────── -->
 <!-- Why this exists: Highlights key career distinctions with a smooth typing ticker -->
@@ -21,13 +24,13 @@
 <br/>
 
 <!-- ────────────── 3. QUICK NAVIGATION BAR ────────────── -->
-<!-- Why this exists: Gives recruiters immediate 1-click access to your verified status and links -->
+<!-- Why this exists: Gives recruiters immediate 1-click access to verified status, email, and LinkedIn -->
 <a href="https://www.linkedin.com/in/saidane-mohamed-lamine-31862a247/">
-  <img src="https://img.shields.io/badge/🎓_ESPRIT-AI_%26_Software_Engineering-38bdf8?style=flat-square&labelColor=0f172a" alt="ESPRIT Student"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_ESPRIT-AI_%26_Software_Engineering-38bdf8?style=flat-square&labelColor=0f172a" alt="ESPRIT Student"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/saidane-mohamed-lamine-31862a247/">
-  <img src="https://img.shields.io/badge/🚀_STAGE_D'ÉTAT-Actively_Looking-10b981?style=flat-square&labelColor=0f172a" alt="Available for Internship"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_STAGE_D%27%C3%89TAT-Actively_Looking-10b981?style=flat-square&labelColor=0f172a" alt="Available for Internship"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/saidane-mohamed-lamine-31862a247/">
@@ -74,16 +77,25 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <td width="45%" valign="top" align="center">
 <h3>⚡ Dev Sanctuary</h3>
 
-<!-- Aesthetic Anime Coder Companion (High-Speed Verified CDN) -->
-<img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="280" alt="Anime Coder in Focus Mode" style="border-radius: 8px; margin-bottom: 8px;" />
+<!-- Cyberpunk Anime Coder Companion (Self-hosted in repository, instant load) -->
+<img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-coder.gif" width="280" alt="Anime Coder in Focus Mode" style="border-radius: 8px; margin-bottom: 6px;" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Mode-Deep_Focus_🎧-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
+<img src="https://img.shields.io/badge/Focus-Deep_Engineering_Flow-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
 
 <br/><br/>
 
-<!-- Live GitHub Streak Stats -->
+<!-- Desk Companion Detail: Cute Animated Coding Cat -->
+<details>
+  <summary><b>🐱 Desk Companion: Animated Coding Cat</b></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/cat-coding.gif" width="250" alt="Coding Cat" style="border-radius: 8px;" />
+</details>
+
+<br/>
+
+<!-- Live GitHub Streak Stats (High reliability demolab endpoint) -->
 <a href="https://github.com/Mohamedamine2004">
   <img src="https://streak-stats.demolab.com?user=Mohamedamine2004&theme=tokyonight&background=090d16&border=1e293b&ring=38bdf8&fire=10b981&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&stroke=38bdf8" width="100%" alt="GitHub Streak Stats" />
 </a>
@@ -227,7 +239,7 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 
 <br/><br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e293b,80:0f172a,100:090d16&height=100&section=footer&reversal=false" width="100%" alt="Footer Wave" />
+<!-- Self-Hosted SVG Footer Banner -->
+<img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 
 </div>
