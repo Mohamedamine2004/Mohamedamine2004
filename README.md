@@ -75,7 +75,7 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <h3>⚡ Dev Sanctuary</h3>
 
 <!-- Aesthetic Anime / Coder Companion -->
-<img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-coder.gif" width="280" alt="Anime Coder in Focus Mode" style="border-radius: 8px; margin-bottom: 8px;" />
+<img src="assets/anime-coder.gif" width="280" alt="Anime Coder in Focus Mode" style="border-radius: 8px; margin-bottom: 8px;" />
 
 <br/>
 
