@@ -16,10 +16,10 @@
 </a>
 
 <!-- ────────────── 2. DYNAMIC STATUS & ROLES ────────────── -->
-<!-- Why this exists: Highlights key career distinctions with a smooth typing ticker -->
+<!-- Why this exists: Highlights key career distinctions with a smooth typing ticker in 100% English -->
 <br/>
 
-[![Typing Line](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2600&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=45&lines=AI+%26+Software+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93;Full-Stack+%26+Distributed+Systems+Architect+%E2%9A%A1;B.Sc.+GLSI+Graduate+%E2%80%94+Mention+Tr%C3%A8s+Bien+%F0%9F%8F%85;Actively+Seeking+Stage+d'%C3%89tat+(Final+Graduation+Internship)+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing Line](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2600&pause=1200&color=38BDF8&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=45&lines=AI+%26+Software+Engineering+Student+%40+ESPRIT+%F0%9F%8E%93;Full-Stack+%26+Distributed+Systems+Architect+%E2%9A%A1;B.Sc.+in+Software+Engineering+%E2%80%94+Highest+Honors+%F0%9F%8F%85;Actively+Seeking+Graduation+Internship+(AI+%26+Software)+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/saidane-mohamed-lamine-31862a247/">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80_STAGE_D%27%C3%89TAT-Actively_Looking-10b981?style=flat-square&labelColor=0f172a" alt="Available for Internship"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_INTERNSHIP-Actively_Seeking-10b981?style=flat-square&labelColor=0f172a" alt="Available for Graduation Internship"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/saidane-mohamed-lamine-31862a247/">
@@ -48,7 +48,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--  BENTO ROW 1: PROFILE & ACADEMICS (LEFT) + ANIME CODER & STREAK (RIGHT)        -->
+<!--  BENTO ROW 1: PROFILE & ACADEMICS (LEFT) + DEV SANCTUARY (RIGHT)               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
@@ -61,11 +61,11 @@
 I am an **AI & Software Engineering student at ESPRIT** with a strong foundation in backend architecture, full-stack systems, and applied machine learning.
 
 - 🎓 **Current**: AI & Software Engineering Track @ **ESPRIT** (2024 – Present)
-- 🏅 **Undergraduate**: B.Sc. in Software Engineering (GLSI) @ **FSM** — Graduated **Mention Très Bien**
+- 🏅 **Undergraduate**: B.Sc. in Software Engineering (GLSI) @ **FSM** — Graduated with **Highest Honors (Mention Très Bien)**
 - 🔭 **Specialization**: High-throughput distributed backends, clean microservices & predictive AI
 - 🌍 **Location**: Tunis, Tunisia 🇹🇳
-- 🎯 **Target**: Seeking a **Stage d'État** (Final Graduation Internship) starting early 2025/2026
-- 💬 **Languages**: French (*Bilingual*), English (*Professional*), Arabic (*Native*)
+- 🎯 **Target**: Seeking a **Final Graduation Internship** (Full-Stack / AI Engineer) starting early 2025/2026
+- 💬 **Languages**: English (*Professional*), French (*Bilingual*), Arabic (*Native*)
 
 <br/>
 
@@ -73,20 +73,20 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 
 </td>
 
-<!-- Bento Card B: Developer Sanctuary (Anime Coder + Desk Cat Companion + Live Streak) -->
+<!-- Bento Card B: Developer Sanctuary (Anime Developer + Animated Desk Cat) -->
 <td width="45%" valign="top" align="center">
 <h3>⚡ Dev Sanctuary</h3>
 
-<!-- Dual Companion Showcase: Cyberpunk Anime Coder + Animated Desk Cat -->
-<!-- Why this exists: Displays both the focused anime engineer and the playful desk cat side-by-side at optimal pixel resolution. -->
+<!-- Dual Companion Showcase: Anime Software Engineer + Animated Desk Cat -->
+<!-- Why this exists: Displays both the focused digital engineer and the playful desk cat side-by-side at optimal native resolution. -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
   <td width="50%" align="center" valign="bottom">
     <a href="https://github.com/Mohamedamine2004">
-      <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-coder.gif" width="135" alt="Anime Coder in Focus Mode" />
+      <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/main/assets/anime-developer.png" width="135" alt="Anime Software Engineer" />
     </a>
     <br/>
-    <sub><b>🎧 Cyberpunk Dev</b></sub>
+    <sub><b>🎧 Deep Focus Flow</b></sub>
   </td>
   <td width="50%" align="center" valign="bottom">
     <a href="https://github.com/Mohamedamine2004">
@@ -100,7 +100,7 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 
 <br/>
 
-<img src="https://img.shields.io/badge/Mode-Deep_Focus_Flow-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
+<img src="https://img.shields.io/badge/Status-Deep_Engineering_Flow-38bdf8?style=flat-square&labelColor=0f172a" alt="Focus Mode" />
 &nbsp;
 <img src="https://img.shields.io/badge/Fuel-Espresso_%E2%98%95-10b981?style=flat-square&labelColor=0f172a" alt="Espresso Fuel" />
 
@@ -130,8 +130,8 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <!-- Project 1: SmartBiz AI -->
 <td width="50%" valign="top">
 <h4>🏅 <a href="https://github.com/Mohamedamine2004/PFE-smartBiz-AI">PFE — SmartBiz AI</a></h4>
-<p><b>AI-Powered SaaS Platform for SME Management & Valuation</b></p>
-<p>Final graduation project awarded <b>Mention Très Bien</b> 🎖️. Centralizes operational business metrics, automates business valuation using <b>CatBoost Machine Learning</b>, and delivers predictive financial intelligence for executive decision-making.</p>
+<p><b>AI-Powered SaaS Platform for SME Management &amp; Valuation</b></p>
+<p>Final graduation project awarded <b>Highest Honors</b> 🎖️. Centralizes operational business metrics, automates business valuation using <b>CatBoost Machine Learning</b>, and delivers predictive financial intelligence for executive decision-making.</p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -146,7 +146,7 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <!-- Project 2: Money Track Mood -->
 <td width="50%" valign="top">
 <h4>💡 <a href="https://github.com/Mohamedamine2004/Money_Track_Mood">Money Track Mood</a></h4>
-<p><b>Behavioral Finance & Mood-Linked Expense Tracker</b></p>
+<p><b>Behavioral Finance &amp; Mood-Linked Expense Tracker</b></p>
 <p>A full-stack production web application correlating daily spending habits with psychological emotional states. Surfaces impulsive buying patterns and behavioral triggers through rich, interactive data visualizations.</p>
 
 <p>
@@ -174,18 +174,18 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <tr>
 
 <td width="50%" valign="top">
-<b>🎨 Frontend & User Interface</b><br/>
+<b>🎨 Frontend &amp; User Interface</b><br/>
 <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,html,css&perline=7&theme=dark" alt="Frontend Stack" />
 <br/><br/>
-<b>⚙️ Backend Systems & Languages</b><br/>
+<b>⚙️ Backend Systems &amp; Languages</b><br/>
 <img src="https://skillicons.dev/icons?i=nestjs,spring,django,nodejs,java,py,cpp&perline=7&theme=dark" alt="Backend Stack" />
 </td>
 
 <td width="50%" valign="top">
-<b>🗄️ Databases & Infrastructure</b><br/>
+<b>🗄️ Databases &amp; Infrastructure</b><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,linux&perline=7&theme=dark" alt="Databases and Infrastructure" />
 <br/><br/>
-<b>🧠 AI / ML, Automation & Tools</b><br/>
+<b>🧠 AI / ML, Automation &amp; Tools</b><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda,git,github,postman,vscode&perline=7&theme=dark" alt="AI & Tools" />
 </td>
 
@@ -195,7 +195,7 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--  BENTO ROW 4: INTERACTIVE CONTRIBUTION ACTIVITY                                 -->
+<!--  BENTO ROW 4: VERIFIED CONTRIBUTION VELOCITY                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -206,20 +206,6 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 <a href="https://github.com/Mohamedamine2004">
   <img src="https://ghchart.rshah.org/0ea5e9/Mohamedamine2004" alt="Mohamed Lamine Saidane's Contribution Calendar" width="100%" />
 </a>
-
-<br/><br/>
-
-<!-- Interactive Physics Simulation (Powered by flycran/github-gravity) -->
-<details>
-  <summary><b>🪐 Expand Physics Gravity Simulation</b></summary>
-  <br/>
-  <p><i>Physics simulation of contribution activity blocks colliding over <b>LAMINE SAIDANE</b></i></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/output/gravity.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/output/gravity.svg">
-    <img src="https://raw.githubusercontent.com/Mohamedamine2004/Mohamedamine2004/output/gravity.svg" alt="GitHub Gravity Contribution Graph" width="95%"/>
-  </picture>
-</details>
 
 </div>
 
@@ -233,8 +219,8 @@ I am an **AI & Software Engineering student at ESPRIT** with a strong foundation
 
 <hr width="100%" size="1" color="#1e293b"/>
 
-<h3>🤝 Let's Connect & Collaborate</h3>
-<p>I am actively seeking a <b>Stage d'État (Final Graduation Internship)</b> in Full-Stack & AI Engineering.</p>
+<h3>🤝 Let's Connect &amp; Collaborate</h3>
+<p>Actively seeking a <b>Final Graduation Internship</b> in Full-Stack &amp; AI Engineering (Available 2025/2026).</p>
 
 <a href="mailto:saidanemohamedamine72@gmail.com">
   <img src="https://img.shields.io/badge/Email-saidanemohamedamine72%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090d16" alt="Send Email"/>
